@@ -1673,5 +1673,30 @@
         "alpha2": "ZW",
         "alpha3": "ZWE",
         "numeric3": "716"
+    },
+    "BQ": {
+        "countryName": "Bonaire, Saint Eustatius and Saba",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "numeric3": "535"
+    },
+    "CW": {
+        "countryName": "Curacao",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "numeric3": "531"
+    },
+    "SX": {
+        "countryName": "Sint Maarten",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "numeric3": "534"
+    },
+    "XK": {
+        "countryName": "Kosovo",
+        "postalCodeFormat": "5Digits.json",
+        "alpha2": "XK",
+        "alpha3": "XKX",
+        "numeric3": ""
     }
 }

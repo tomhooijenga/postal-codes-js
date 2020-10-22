@@ -1233,5 +1233,25 @@
     "iso2CountryCode": "ZW",
     "countryName": "Zimbabwe",
     "isoNumericCountryCode": "716"
+  },
+  "BES": {
+    "iso2CountryCode": "BQ",
+    "countryName": "Bonaire, Saint Eustatius and Saba",
+    "isoNumericCountryCode": "535"
+  },
+  "CUW": {
+    "iso2CountryCode": "CW",
+    "countryName": "Curacao",
+    "isoNumericCountryCode": "531"
+  },
+  "SXM": {
+    "iso2CountryCode": "SX",
+    "countryName": "Sint Maarten",
+    "isoNumericCountryCode": "534"
+  },
+  "XKX": {
+    "iso2CountryCode": "XK",
+    "countryName": "Kosovo",
+    "isoNumericCountryCode": ""
   }
 }
